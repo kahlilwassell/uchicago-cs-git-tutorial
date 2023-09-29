@@ -1,1 +1,2 @@
-Kahlil Wassell git tutorial kjwassell
+Kahlil Wassell kjwassell
+UChicago CS Git Tutorial
